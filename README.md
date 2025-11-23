@@ -1,7 +1,7 @@
 Repositorio com todos os exercicios do livro entendendo algoritmos
 
 ## Estudar com o livro Entendendo Algoritmos
-- [ ] **Capítulo 1 - Introdução a Algoritmos**
+- [x] **Capítulo 1 - Introdução a Algoritmos**
     
     - [x] Revisar o conceito de Pesquisa Binária
         
@@ -9,7 +9,7 @@ Repositorio com todos os exercicios do livro entendendo algoritmos
         
     - [x] Exercício 1.1 e 1.2 (Pesquisa Binária)
         
-    - [ ] Exercício 1.3, 1.4, 1.5 e 1.6 (Notação Big O)
+    - [x] Exercício 1.3, 1.4, 1.5 e 1.6 (Notação Big O)
         
 - [ ] **Capítulo 2 - Ordenação por Seleção**
     
