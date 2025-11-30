@@ -11,15 +11,15 @@ Repositorio com todos os exercicios do livro entendendo algoritmos
         
     - [x] Exercício 1.3, 1.4, 1.5 e 1.6 (Notação Big O)
         
-- [ ] **Capítulo 2 - Ordenação por Seleção**
+- [x] **Capítulo 2 - Ordenação por Seleção**
     
-    - [ ] Estudar Arrays vs. Listas Encadeadas
+    - [x] Estudar Arrays vs. Listas Encadeadas
         
-    - [ ] Entender a Ordenação por Seleção
+    - [x] Entender a Ordenação por Seleção
         
-    - [ ] Exercício 2.1 e 2.2 (Tempo de Execução da Ordenação)
+    - [x] Exercício 2.1 e 2.2 (Tempo de Execução da Ordenação)
         
-    - [ ] Exercício 2.3 e 2.4 (Tipos de Listas e Big O)
+    - [x] Exercício 2.3 e 2.4 (Tipos de Listas e Big O)
         
 - [ ] **Capítulo 3 - Recursão**
     
