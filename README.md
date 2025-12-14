@@ -21,25 +21,33 @@ Repositorio com todos os exercicios do livro entendendo algoritmos
         
     - [x] Exercício 2.3 e 2.4 (Tipos de Listas e Big O)
         
-- [ ] **Capítulo 3 - Recursão**
+- [ x] **Capítulo 3 - Recursão**
     
-    - [ ] Entender a Pilha de Chamadas
+    - [ x] Entender a Pilha de Chamadas
         
-    - [ ] Implementar um _countdown_ recursivo
+    - [ x] Implementar um _countdown_ recursivo
         
-    - [ ] Exercício 3.1 e 3.2 (Implementação Recursiva da Soma)
+    - [ x] Exercício 3.1 e 3.2 (Implementação Recursiva da Soma)
         
-    - [ ] Exercício 3.3 e 3.4 (Big O de funções recursivas)
+    - [ x] Exercício 3.3 e 3.4 (Big O de funções recursivas)
         
-- [ ] **Capítulo 4 - Quicksort**
+- [x ] **Capítulo 4 - Quicksort**
     
-    - [ ] Entender a técnica "Dividir para Conquistar"
+    - [ x] Entender a técnica "Dividir para Conquistar"
         
-    - [ ] Implementar o Quicksort (Caso Base e Caso Recursivo)
+    - [ x] Implementar o Quicksort (Caso Base e Caso Recursivo)
         
-    - [ ] Exercício 4.1 e 4.2 (Implementação e Pivotagem)
+    - [ x] Exercício 4.1 e 4.2 (Implementação e Pivotagem)
         
-    - [ ] Exercício 4.3 e 4.4 (Big O do Quicksort)
+    - [x ] Exercício 4.3 e 4.4 (Big O do Quicksort)
+
+    - [ ] Exercício 4.5
+
+    - [ ] Exercício 4.6 
+
+    - [ ] Exercício 4.7 
+
+    - [ ] Exercício 4.8 
         
 - [ ] **Capítulo 5 - Tabelas Hash**
     
