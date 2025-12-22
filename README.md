@@ -41,13 +41,13 @@ Repositorio com todos os exercicios do livro entendendo algoritmos
         
     - [x ] Exercício 4.3 e 4.4 (Big O do Quicksort)
 
-    - [ ] Exercício 4.5
+    - [x ] Exercício 4.5
 
-    - [ ] Exercício 4.6 
+    - [ x] Exercício 4.6 
 
-    - [ ] Exercício 4.7 
+    - [ x] Exercício 4.7 
 
-    - [ ] Exercício 4.8 
+    - [ x] Exercício 4.8 
         
 - [ ] **Capítulo 5 - Tabelas Hash**
     
