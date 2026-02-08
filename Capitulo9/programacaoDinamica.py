@@ -2,7 +2,7 @@
 
 # 9.1 Imagine que voce consegue roubar outro item um mp3 player ele pesa 1kg e vale 1000 você deveria rouba-lo ? 
 
-# na bolsa de 3kg ele valerá a pena mas  nao na de 4kg
+# sim entao seria possivel roubar o mp3, o iphone e o violao, itens que valem um total de 4500.
 
 # na programação dinamica não existe metade de um item , é tudo ou nada
 
