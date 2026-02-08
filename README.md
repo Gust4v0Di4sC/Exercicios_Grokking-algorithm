@@ -49,59 +49,59 @@ Repositorio com todos os exercicios do livro entendendo algoritmos
 
     - [ x] Exercício 4.8 
         
-- [ ] **Capítulo 5 - Tabelas Hash**
+- [ x] **Capítulo 5 - Tabelas Hash**
     
-    - [ ] Entender Funções Hash e Colisões
+    - [ x] Entender Funções Hash e Colisões
         
-    - [ ] Exemplos de uso (Votos, Cache)
+    - [ x] Exemplos de uso (Votos, Cache)
         
-    - [ ] Exercício 5.1 (Colisões)
+    - [ x] Exercício 5.1 (Colisões)
         
-    - [ ] Exercício 5.2 (Fator de Carga)
+    - [ x] Exercício 5.2 (Fator de Carga)
         
-    - [ ] Exercício 5.3 a 5.7 (Desempenho da Tabela Hash)
+    - [ x] Exercício 5.3 a 5.7 (Desempenho da Tabela Hash)
         
-- [ ] **Capítulo 6 - Pesquisa em Largura (BFS)**
+- [x ] **Capítulo 6 - Pesquisa em Largura (BFS)**
     
-    - [ ] Entender o conceito de Grafos
+    - [ x] Entender o conceito de Grafos
         
-    - [ ] Utilizar Filas (Queues) para BFS
+    - [ x] Utilizar Filas (Queues) para BFS
         
-    - [ ] Exercício 6.1 e 6.2 (Grafos e BFS)
+    - [ x] Exercício 6.1 e 6.2 (Grafos e BFS)
         
-    - [ ] Exercício 6.3 a 6.6 (BFS e o menor caminho)
+    - [ x] Exercício 6.3 a 6.6 (BFS e o menor caminho)
         
-- [ ] **Capítulo 7 - Algoritmo de Dijkstra**
+- [ x] **Capítulo 7 - Algoritmo de Dijkstra**
     
-    - [ ] Entender grafos com Pesos
+    - [ x] Entender grafos com Pesos
         
-    - [ ] Entender as restrições (Arestas Negativas)
+    - [ x] Entender as restrições (Arestas Negativas)
         
-    - [ ] Exercício 7.1 a 7.5 (Aplicação do Algoritmo)
+    - [ x] Exercício 7.1 a 7.5 (Aplicação do Algoritmo)
         
-- [ ] **Capítulo 8 - Algoritmos Gulosos**
+- [ x] **Capítulo 8 - Algoritmos Gulosos**
     
-    - [ ] Entender quando usar a abordagem gulosa
+    - [ x] Entender quando usar a abordagem gulosa
         
-    - [ ] Resolver o Problema da Cobertura de Conjunto
+    - [ x] Resolver o Problema da Cobertura de Conjunto
         
-    - [ ] Exercício 8.1 e 8.2 (Exemplos Gulosos)
+    - [ x] Exercício 8.1 e 8.2 (Exemplos Gulosos)
         
-- [ ] **Capítulo 9 - Programação Dinâmica**
+- [x ] **Capítulo 9 - Programação Dinâmica**
     
-    - [ ] Entender a Programação Dinâmica (PD)
+    - [ x] Entender a Programação Dinâmica (PD)
         
-    - [ ] Resolver o Problema da Mochila (Knapsack Problem)
+    - [ x] Resolver o Problema da Mochila (Knapsack Problem)
         
-    - [ ] Exercício 9.1 a 9.6 (PD em diferentes problemas)
+    - [ x] Exercício 9.1 a 9.6 (PD em diferentes problemas)
         
-- [ ] **Capítulo 10 - KNN (K-Vizinhos Mais Próximos)**
+- [x ] **Capítulo 10 - KNN (K-Vizinhos Mais Próximos)**
     
-    - [ ] Entender a Classificação e Regressão
+    - [ x] Entender a Classificação e Regressão
         
-    - [ ] Criar um Sistema de Recomendação
+    - [ x] Criar um Sistema de Recomendação
         
-    - [ ] Exercício 10.1 a 10.3 (Aplicação de KNN)
+    - [ x] Exercício 10.1 a 10.3 (Aplicação de KNN)
         
 - [ ] **Capítulo 11 - O que vem a seguir? (Outros Algoritmos e Tópicos)**
     
