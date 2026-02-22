@@ -103,16 +103,11 @@ Repositorio com todos os exercicios do livro entendendo algoritmos
         
     - [ x] Exercício 10.1 a 10.3 (Aplicação de KNN)
         
-- [ ] **Capítulo 11 - O que vem a seguir? (Outros Algoritmos e Tópicos)**
+- [ x] **Capítulo 11 - O que vem a seguir? (Outros Algoritmos e Tópicos)**
     
-    - [ ] Leitura do Capítulo
+    - [ x] Leitura do Capítulo
         
-    - [ ] Pesquisar sobre Algoritmo de Floyd
+    - [ x] Pesquisar sobre Algoritmo de Floyd
         
-    - [ ] Pesquisar sobre Programação Linear
+    - [ x] Pesquisar sobre Programação Linear
         
-- [ ] **Capítulo 12 - Próximos Passos (Sugestões para aprofundamento)**
-    
-    - [ ] Leitura do Capítulo
-        
-    - [ ] Definir os próximos passos de estudo (Estruturas de Dados)
